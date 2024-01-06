@@ -1,0 +1,1 @@
+# Using-Deep-Learning-predicting-Earthquake-STEAD-
